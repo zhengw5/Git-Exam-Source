@@ -48,7 +48,7 @@
 # See `UICS.py`…
 
 def rcos():
-	return "Rensselaer Center for Open Software"
+	return "Rensselaer Center for Open Source"
 
 def alyssa_p():
 	surname = "hapck.er"
